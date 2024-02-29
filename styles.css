@@ -1,0 +1,111 @@
+body {
+    font-family: "Kode Mono", sans-serif;
+    margin: 0;
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3em;
+    color: #fff;
+}
+
+h2 {
+    text-align: center;
+    color: #fff;
+    font-size: 2em;
+}
+
+div{
+    display: block;
+}
+
+.container {
+    border: 4px #fff dashed;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.color-container {
+    width: 100%;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.red {
+    background-color: #c00000
+}
+
+.blue {
+    background-color: #2929fb;
+}
+
+.green {
+    background-color: #1bcc1b;
+}
+
+.orange {
+    background: #ffb700;
+}
+
+.yellow {
+    background-color: #ffff16
+}
+
+.purple {
+    background: #da00da
+}
+
+p {
+    color: #fff;
+    font-size: 25px
+}
+
+
+
+.font-panel {
+    width: 45%;
+    display: inline-block;
+}
+.font-label {
+    font-size: 30px; 
+    text-decoration: underline;
+}
+.kode-mono{
+    font-family: "Kode Mono";
+    font-style: normal;
+}
+.anta {
+    font-family: Anta;
+    font-style: normal;
+}
+.micro-5 {
+    font-family: "Micro 5";
+    font-style: normal;
+}
+.bold {
+    font-weight: 700;
+}
+.italic {
+    font-style: italic;
+}
+
+
+ul {
+    color: #fff;
+    text-align: left;
+    display: inline-block;
+}
+.center {
+    text-align: center;
+}
+
+.paragraph {
+    text-align: center;
+}
